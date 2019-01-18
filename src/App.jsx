@@ -16,6 +16,7 @@ import User from './components/user/User'
 // App.jsx
 // App: Component
 // @return jsx
+// comment for testing
 class App extends Component {
   // App: Primary component - fired up by index.js
   render() {
